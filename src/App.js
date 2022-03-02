@@ -54,7 +54,7 @@ function App() {
   return (
     <div className="App">
      <header>
-       <h1>Task-Master</h1>
+       <h1>Task-Master!</h1>
      </header>
      <Form 
      inputText={inputText}
